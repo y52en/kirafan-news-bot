@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 tweepy = "*"
+beautifulsoup4 = "*"
+twitter-text-parser = "*"
 
 [dev-packages]
 flake8 = "*"
